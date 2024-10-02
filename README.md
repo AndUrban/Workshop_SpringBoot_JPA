@@ -1,4 +1,4 @@
-# Projeto web services com Spring Boot e JPA / Hibernate
+# Projeto Web Services com Spring Boot e JPA / Hibernate
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/AndUrban/workshop-springboot3-jpa/blob/main/LICENSE)
 
 
@@ -9,8 +9,10 @@ Consiste em um projeto Spring Boot Java, seguindo a implementação do modelo de
 camadas lógicas (resource, service e repository).
 
 
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+## Modelo de Domínio
+![Modelo Conceitual](https://github.com/AndUrban/Assets/blob/main/Assets/webServicesSpringBoot_1.png)
+## Inteface de Domínio
+![Modelo Conceitual](https://github.com/AndUrban/Assets/blob/main/Assets/webServicesSpringBoot_2.png)
 
 # Tecnologias utilizadas
 ## Back end
