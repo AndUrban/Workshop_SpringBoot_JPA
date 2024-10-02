@@ -17,31 +17,37 @@ camadas lógicas (resource, service e repository).
 ![Modelo Conceitual](https://github.com/AndUrban/Assets/blob/main/Assets/webServicesSpringBoot_3.png)
 
 # Tecnologias utilizadas
-## Back end
 - Java
 - Spring Boot
 - JPA / Hibernate
 - Maven
 
-# Como executar o projeto
-
-## Back end
-Pré-requisitos: Java 11
+# Execução
+Pré-requisitos: JavaSE 21
 
 ```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+# clonar repositório:
+git clone https://github.com/AndUrban/workshop-springboot3-jpa.git
 
-# entrar na pasta do projeto back end
-cd backend
+# Dentro da IDE, importar o projeto:
+course
 
-# executar o projeto
-./mvnw spring-boot:run
+# Caminho para a execução:
+course/src(src/main/java)/com.myeducandoweb.course/CourseApplication.java
+
+-> Run as Spring Boot App
+
+# Abrir o link:
+http://localhost:8080/h2-console
+
+Conferir as seguintes informações:
+Driver class: org.h2.Driver
+JDBC URL: jdbc:h2:mem:testdb
+User Name: sa
+Password: (não tem)
+
+-> Clicar em "Connect"
 ```
 
-# Autor
-
-Wellington Mazoni de Andrade
-
-https://www.linkedin.com/in/wmazoni
-
+# Agradecimentos
+Dr. Nélio Alves - DevSuperior: Escola de Programação
