@@ -13,6 +13,8 @@ camadas lógicas (resource, service e repository).
 ![Modelo Conceitual](https://github.com/AndUrban/Assets/blob/main/Assets/webServicesSpringBoot_1.png)
 ## Inteface de Domínio
 ![Modelo Conceitual](https://github.com/AndUrban/Assets/blob/main/Assets/webServicesSpringBoot_2.png)
+## Camadas Lógicas (Logical Layers)
+![Modelo Conceitual](https://github.com/AndUrban/Assets/blob/main/Assets/webServicesSpringBoot_3.png)
 
 # Tecnologias utilizadas
 ## Back end
