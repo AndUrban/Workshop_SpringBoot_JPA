@@ -23,7 +23,7 @@ camadas lógicas (resource, service e repository).
 - Maven
 
 # Execução
-Pré-requisitos: JavaSE 21
+Pré-requisitos: JavaSE-21
 
 ```bash
 # clonar repositório:
